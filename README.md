@@ -1,1 +1,2 @@
-# patrimony-back
+# patrimony-management
+Gestion de patrimoine
